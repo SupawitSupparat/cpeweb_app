@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<br/>
+<br/>
+<br/>
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Start server<br/> 
+rails server -b $IP -p $PORT<br/>
+<br/><br/>
+git push origin ชื่อbranch<br/>
+ลบ branch ก่อนโหลดใหม่<br/>
+git branch -D ชื่อbranch<br/>
+สร้าง branch<br/>
+git checkout -b ชื่อ branch<br/>
